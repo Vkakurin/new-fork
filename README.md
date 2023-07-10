@@ -1,1 +1,5 @@
-# fork_me
+# Hello, open source
+
+- Bezgatsev Konstantin
+- anita
+- VBechtle
