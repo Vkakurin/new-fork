@@ -4,4 +4,5 @@
 - Bezgatsev Konstantin
 - anita
 - Anatoliy Sidorenko
+- Wladimir Weizen
 - Zhurba Oleksandr
